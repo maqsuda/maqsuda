@@ -39,8 +39,8 @@ Currently, I'm focused on expanding my knowledge in **Redux**, **Next**, **Node.
 ## 📊 GitHub Stats  
 ## 📌 Projects
 - 🔗 [Project 1]((https://github.com/maqsuda/B12-A08-Hero) LiveLink-(https://rad-chimera-95dfcc.netlify.app/)
-- 🔗 [Project 2](https://food-lover-network.web.app/)
-- 🔗 [Project 3](https://green-nest-auth.web.app)
+- 🔗 [Project 2]((https://food-lover-network.web.app/)
+- 🔗 [Project 3]((https://green-nest-auth.web.app/)
 
 
 
