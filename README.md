@@ -32,21 +32,18 @@ Currently, I'm focused on expanding my knowledge in **Redux**, **Next**, **Node.
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:maqsudamahboob@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats  
+## 📌 Projects
+- 🔗 [Project 1]((https://github.com/maqsuda/B12-A08-Hero)
+- 🔗 [Project 2]((https://github.com/maqsuda/food-lover-network-server),(https://github.com/maqsuda/food-lover-network-client))
+- 🔗 [Project 3]((https://github.com/maqsuda/hero-io-project))
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
----
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
 
