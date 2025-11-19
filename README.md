@@ -31,7 +31,7 @@ Currently, I'm focused on expanding my knowledge in **Redux**, **Next**, **Node.
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maqsuda-mahboob-649493245)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:maqsudamahboob@gmail.com)
 
 ---
@@ -39,8 +39,8 @@ Currently, I'm focused on expanding my knowledge in **Redux**, **Next**, **Node.
 ## 📊 GitHub Stats  
 ## 📌 Projects
 - 🔗 [Project 1]((https://github.com/maqsuda/B12-A08-Hero)
-- 🔗 [Project 2]((https://github.com/maqsuda/food-lover-network-server),(https://github.com/maqsuda/food-lover-network-client))
-- 🔗 [Project 3]((https://github.com/maqsuda/hero-io-project))
+- 🔗 [Project 2]((https://github.com/maqsuda/food-lover-network-server)(https://github.com/maqsuda/food-lover-network-client)
+- 🔗 [Project 3]((https://github.com/maqsuda/hero-io-project)
 
 
 
